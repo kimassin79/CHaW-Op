@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+data/
+artifacts/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.vtk
+*.vtu
+.DS_Store

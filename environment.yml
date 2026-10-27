@@ -1,0 +1,20 @@
+name: chawop
+channels:
+  - pytorch
+  - pyg
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9.15
+  - pytorch=1.13.1
+  - pytorch-cuda=11.6
+  - numpy=1.23.5
+  - scipy=1.9.3
+  - pip=22.3.1
+  - pip:
+      - torch-geometric==2.2.0
+      - torch-scatter==2.1.0
+      - torch-sparse==0.6.16
+      - hydra-core==1.2.0
+      - meshio==5.3.4
+      - pyvista==0.37.0

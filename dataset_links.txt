@@ -1,0 +1,11 @@
+Vascular Model Repository
+https://vascularmodel.org/
+https://vascularmodel.org/FAQs.html
+License: research and development use under the repository terms
+Access checked: 2026-07-15
+
+4D-CTA image and geometry dataset for kinematic analysis of abdominal aortic aneurysms
+https://doi.org/10.5281/zenodo.15477710
+License: Creative Commons Attribution 4.0 International
+Version: Zenodo record 15477710
+Access checked: 2026-07-15

@@ -1,0 +1,3 @@
+defaults: [main]
+model:
+  equivariant_tokenization: false

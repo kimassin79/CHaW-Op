@@ -1,0 +1,5 @@
+defaults: [main]
+model:
+  coupling_enabled: false
+objective:
+  symmetric_consistency_weight: 0.1
